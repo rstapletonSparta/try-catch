@@ -1,0 +1,7 @@
+C:\Users\Ross Stapleton\Engineering45b\week3\day1\homework\throw\bin\Debug\@throw.exe.config
+C:\Users\Ross Stapleton\Engineering45b\week3\day1\homework\throw\bin\Debug\@throw.exe
+C:\Users\Ross Stapleton\Engineering45b\week3\day1\homework\throw\bin\Debug\@throw.pdb
+C:\Users\Ross Stapleton\Engineering45b\week3\day1\homework\throw\obj\Debug\throw.csprojResolveAssemblyReference.cache
+C:\Users\Ross Stapleton\Engineering45b\week3\day1\homework\throw\obj\Debug\throw.csproj.CoreCompileInputs.cache
+C:\Users\Ross Stapleton\Engineering45b\week3\day1\homework\throw\obj\Debug\@throw.exe
+C:\Users\Ross Stapleton\Engineering45b\week3\day1\homework\throw\obj\Debug\@throw.pdb
